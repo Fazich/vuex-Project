@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "vuex": "^2.3.0",
+    "vuex-module-configuration-composer": "^1.0.0"
+  }
+}
